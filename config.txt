@@ -1,3 +1,4 @@
 some config info
 need to pull it to local repo
 dodala svoju config
+some more config data is needed
